@@ -16,3 +16,9 @@ https://user-images.githubusercontent.com/17916033/155574047-69b1447c-b166-4bf2-
  - Original code: https://gitlab.utu.fi/drone-warehouse/beam_defect_detection
  - Car damage dataset: https://www.kaggle.com/lplenka/coco-car-damage-detection-dataset
  
+### Acknowledgements
+
+We acknowledge the help of Työtehoseura ry for their invaluable warehouse inspection expertise and for their fault video/picture collection allowing us to build the dataset used on this publication. We also gratefully acknowledge the Helsinki-Uusimaa Regional Council for funding.
+
+
+
